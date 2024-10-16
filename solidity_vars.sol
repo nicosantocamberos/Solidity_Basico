@@ -23,6 +23,7 @@ contract solidity_vars {
         sig_id=msg.sig;
         gas_limit=block.gaslimit;
     }
+    
 }
 
 
